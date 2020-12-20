@@ -1,0 +1,26 @@
+.info {
+    width: auto;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(88, 228, 221);
+    max-width: 400px;
+    top: 50px;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    
+}
+
+p,  {
+    font-family: monospace;
+
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+q {
+    font-family: serif;
+    font-size: 13px;
+}
