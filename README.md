@@ -11,4 +11,6 @@ Eventually my wife will be creating a website to share her skills with potential
 1. Figure out how to add a short "About-Me" section
 1. Link her online resume via the contact button
 1. Make the profile card able to flip on click to display more information
+1. Add the Dominican Flag to the background of the profile. It should have a low opacity but high enough to be seen clearly
+
 
