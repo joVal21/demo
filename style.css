@@ -21,7 +21,6 @@ body {
     max-width: 400px;
     background-color: rgb(88, 228, 221);
     box-shadow: 0 4px 8px 0 rgba(230, 107, 50, 0.808);
-    position: relative;
     top: 50px;
     
 }
@@ -49,7 +48,8 @@ button:hover {
 
 #footer {
     position: relative;
-    display: inline-block;
+    text-align: center;
+    top: 15px;
     
 }
 
