@@ -18,7 +18,7 @@ body {
     width: auto;
     height: auto;
     text-align:center;
-    max-width: 350px;
+    max-width: 400px;
     background-color: rgb(88, 228, 221);
     box-shadow: 0 4px 8px 0 rgba(230, 107, 50, 0.808);
     position: relative;
@@ -45,6 +45,12 @@ button:hover {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: gray;
 
+}
+
+#footer {
+    position: relative;
+    display: inline-block;
+    
 }
 
 
