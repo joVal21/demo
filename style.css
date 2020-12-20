@@ -1,0 +1,50 @@
+.name {
+    font-family: fantasy;
+    margin: auto;
+    width: auto;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    bottom: 20px;
+
+}
+
+body {
+    background-image: url("/Users/Joe-V/Desktop/profile-card-2/Berb.JPEG");
+}
+
+.card {
+    margin: auto;
+    width: auto;
+    height: auto;
+    text-align:center;
+    max-width: 350px;
+    background-color: rgb(88, 228, 221);
+    box-shadow: 0 4px 8px 0 rgba(230, 107, 50, 0.808);
+    position: relative;
+    top: 50px;
+    
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 2rem;
+}
+
+button {
+    margin-top: 15px;
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button:hover {
+    opacity: .8;
+}
+
+.card p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+
+}
+
+
